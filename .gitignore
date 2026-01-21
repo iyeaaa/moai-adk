@@ -60,7 +60,6 @@ htmlcov_spec/
 # ===========================================
 # IDE & Editors
 # ===========================================
-.vscode/
 .idea/
 .idea_modules/
 *.swp
@@ -298,3 +297,5 @@ dist-ssr/
 # ===========================================
 .playwright-mcp
 theme.config.tsx
+temp_auto_push.bat
+temp_interactive_push.bat
